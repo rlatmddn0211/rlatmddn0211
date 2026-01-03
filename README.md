@@ -22,7 +22,3 @@ Currently focused on bridging the gap between Vision and Language using **Vision
 
 <br/>
 
-### 📊 GitHub Stats
-<div align=left>
-  <img src="https://github-readme-stats.vercel.app/api?username=rlatmddn0211&show_icons=true&theme=radical" alt="Seungwoo's Github Stats"/>
-</div>
