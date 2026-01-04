@@ -6,7 +6,7 @@ Currently focused on bridging the gap between Vision and Language using **Vision
 
 - 🎓 **Undergraduate Student** at Sangmyung Univ (Human-Centered AI)
 - 🔬 **Interests:** Vision-Language Models (VLM), Video Understanding, Zero-shot Learning
-- 🌱 **Currently Studying:** Multimodal Models, Prompt Engineering
+- 🌱 **Currently Studying:** Multimodal Models, Vision-Language Models
 - 📧 **Contact:** rlatmddn0211@gmail.com
 
 <br/>
