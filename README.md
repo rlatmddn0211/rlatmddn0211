@@ -6,7 +6,7 @@ Currently focused on bridging the gap between Vision and Language using **Multim
 
 - 🎓 **Undergraduate Student** at Sangmyung Univ (Human-Centered AI)
 - 🔬 **Interests:** Vision-Language Models (VLM), Multimodal Large Language Models
-- 🌱 **Currently Studying:** Multimodal Models, Vision-Language Models, MLLM
+- 🌱 **Currently Studying:** LangChain,Multimodal Models, Vision-Language Models, MLLM
 - 📧 **Contact:** rlatmddn0211@gmail.com
 
 <br/>
@@ -17,6 +17,7 @@ Currently focused on bridging the gap between Vision and Language using **Multim
 <br/>
 
 ### 🔥 Latest Study
+- **[LangChain]** Building RAG pipelines with LangChain
 - **[Paper Implementation]** CLIP: Zero-shot Prediction & Linear Probing (PyTorch)
 - **[Project]** Mobile Web Service with Deep Learning Model (KT Industry-Academic Project)
 
