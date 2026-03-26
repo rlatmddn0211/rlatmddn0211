@@ -5,8 +5,8 @@ I am an undergraduate student aspiring to become a researcher in **Multimodal AI
 Currently focused on bridging the gap between Vision and Language using **Multimodal Models**.
 
 - 🎓 **Undergraduate Student** at Sangmyung Univ (Human-Centered AI)
-- 🔬 **Interests:** Vision-Language Models (VLM), Multimodal Large Language Models
-- 🌱 **Currently Studying:** LangChain,Multimodal Models, Vision-Language Models, MLLM
+- 🔬 **Interests:** Reinforcement Learning, MetaCognition
+- 🌱 **Currently Studying:** MetaCognition, World Models, Reinforcement Learning, Robotics
 - 📧 **Contact:** rlatmddn0211@gmail.com
 
 <br/>
